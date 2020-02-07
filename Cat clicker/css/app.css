@@ -1,0 +1,28 @@
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+header {
+  width: 100%;
+  text-align: center;
+  border-bottom: 2px solid #000;
+}
+
+.choose {
+  width: 19%;
+  text-align: center;
+  border-right: 2px solid #000;
+
+}
+
+.selected {
+  width: 80%;
+  text-align: center;
+}
+
+.selected img {
+  width: 100%;
+}
